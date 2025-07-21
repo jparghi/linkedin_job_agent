@@ -11,6 +11,7 @@ Automates LinkedIn job searches using Playwright with saved login session, dynam
 
 ## 🛠 Setup
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
 
